@@ -1,7 +1,7 @@
 @echo off
-title Ryans Optimizer
+title Temp Files Cleaner By: GlockBaby
 color 0a
-echo Welcome to Ryan's Optimizer
+echo Temp Files Cleaner By : GlockBaby https://discord.gg/QtRRhpZg
 echo You must run this script as an Administrator !
 pause
 cls
@@ -37,6 +37,6 @@ goto :eof
 :noAdmin
 pause
 echo You must run this script as an Administrator !
-echo ^<Developed by Ryan^>
+echo ^<Developed By GlockBaby^>
 echo ^<press any key^>
 pause
